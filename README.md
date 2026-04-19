@@ -23,7 +23,7 @@ A clean, minimal job application tracker built with Flutter. Track every applica
 
 | Layer | Choice |
 |---|---|
-| Framework | Flutter 3.x |
+| Framework | Flutter 3.41.7 |
 | State management | Provider (`ChangeNotifier`) |
 | Architecture | Single `JobProvider` with in-memory state |
 | Persistence | In-memory (local persistence coming soon) |
